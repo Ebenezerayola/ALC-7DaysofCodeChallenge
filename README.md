@@ -1,6 +1,3 @@
-# ALC-7DaysofCodeChallenge
-the Items here contains the completed ALC 7days challenge.
-
 # Pixel Art Maker Project
 
 ## Table of Contents
